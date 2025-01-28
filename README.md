@@ -23,6 +23,8 @@ O resultado tem a seguinte aparência:
 
 Ao final, será feito o deploy desta aplicação, que ficará disponível no Vercel de forma pública para que qualquer usuário possa visualizar e conhecer o jogo desenvolvido. 
 
+Link com o deploy no Vercel: https://one-alura-jogo-numero-secreto.vercel.app/
+
 :computer: **Linguagens e recursos utilizados** 
 
 * Lógica de Programação
